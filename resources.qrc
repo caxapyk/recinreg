@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/icon-16.png</file>
+    </qresource>
+    <qresource prefix="/translations">
+        <file>qt_ru.qm</file>
+        <file>recinreg_ru_RU.qm</file>
+    </qresource>
+</RCC>
